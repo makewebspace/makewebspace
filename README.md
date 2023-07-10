@@ -1,11 +1,16 @@
 ### :man_technologist: About Me :
 
 :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-🧑‍🏫 Also, I'm a mentor for Junior JavaScript Developers, check out my videos on [![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLUhUyxOM0W97OSU-279QPIj8YFSCI6O8J)
-
-:zap: In my free time, I read technical and financial books, go to the gym and develop my pet projects.
-
+- Over 7 years of experience in web development.
+- Over 1.5 years as a mentor.
+- Conducted hundreds of code reviews.
+- Conducted dozens of audits for third-party projects.
+- Presented several webinars on technical topics.
+- Spent several hundred hours in knowledge sharing sessions with the team.
+- Conducted several hours of coaching sessions as part of the "Science and Art of Transformational Coaching" certification program.
+- 4 years of experience in entrepreneurship and launching online and offline businesses.
+- 1.5 years of sales experience.
+- Interested in applied practical psychology in my work, particularly in understanding user needs to enhance user satisfaction through interface refinement.
 :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Aidar-Shaikhutdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/makewebspace/)
 
 ---
