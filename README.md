@@ -11,6 +11,7 @@
 - 4 years of experience in entrepreneurship and launching online and offline businesses.
 - 1.5 years of sales experience.
 - Interested in applied practical psychology in my work, particularly in understanding user needs to enhance user satisfaction through interface refinement.
+
 :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Aidar-Shaikhutdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/makewebspace/)
 
 ---
